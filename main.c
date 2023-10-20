@@ -21,7 +21,7 @@ int main()
     vE[2] = 33;
     ve_Level++;
 
-    int *buffer10p = newIntegerBuffer(20);
+    int *buffer10p = newIntegerBuffer(10);
     int *buffer100p = newIntegerBuffer(100);
 }
 
