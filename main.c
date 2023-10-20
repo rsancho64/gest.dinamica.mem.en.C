@@ -2,7 +2,7 @@
 // #include <stdlib.h>
 #include "buffer.h"
 
-int main()
+int main(void)
 {
 
     size_t TAMBUFF = 10;
